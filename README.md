@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My portfolio is live...
 
-Things you may want to cover:
+### Features 
+ - Real Time Chat Engine for Comments (Rails 5.0)
+ - Blog w/ Markdown
+ - Portfolio w/ Drag and Drop Interface
 
-* Ruby version
+### Code Example
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ '''ruby
+ def my_great_method
+    puts "here it is"
+ end
+ '''
